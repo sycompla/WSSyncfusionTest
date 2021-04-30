@@ -1,0 +1,23 @@
+{
+  "name": "wssyncfusiontest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sycompla/WSSyncfusionTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sycompla/WSSyncfusionTest/issues"
+  },
+  "homepage": "https://github.com/sycompla/WSSyncfusionTest#readme",
+  "dependencies": {
+    "@syncfusion/ej2-angular-charts": "*",
+    "@syncfusion/ej2-angular-grids": "*"
+  }
+}
